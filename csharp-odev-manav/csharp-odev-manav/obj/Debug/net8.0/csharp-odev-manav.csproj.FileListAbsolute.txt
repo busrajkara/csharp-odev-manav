@@ -1,0 +1,14 @@
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\bin\Debug\net8.0\csharp-odev-manav.exe
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\bin\Debug\net8.0\csharp-odev-manav.deps.json
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\bin\Debug\net8.0\csharp-odev-manav.runtimeconfig.json
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\bin\Debug\net8.0\csharp-odev-manav.dll
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\bin\Debug\net8.0\csharp-odev-manav.pdb
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.AssemblyInfoInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.AssemblyInfo.cs
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.csproj.CoreCompileInputs.cache
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.dll
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\refint\csharp-odev-manav.dll
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.pdb
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\csharp-odev-manav.genruntimeconfig.cache
+C:\Users\busra\OneDrive\Masaüstü\ödev\csharp-odev-manav\csharp-odev-manav\obj\Debug\net8.0\ref\csharp-odev-manav.dll
